@@ -9,9 +9,11 @@ Apollo.
 
 ## How It Works
 
- ###server
+ ### server
 
   1. Run nodemon app.js or npm start
+  
+  2. Hit http://localhost:9000/graphql to run the GraphiQL UI
 
  ### client
    1. Run npm start
